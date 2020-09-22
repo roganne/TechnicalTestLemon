@@ -1,0 +1,17 @@
+C:\Users\macbook\source\repos\ClientWinFormApp\bin\Debug\ClientWinFormApp.exe.config
+C:\Users\macbook\source\repos\ClientWinFormApp\bin\Debug\ClientWinFormApp.exe
+C:\Users\macbook\source\repos\ClientWinFormApp\bin\Debug\ClientWinFormApp.pdb
+C:\Users\macbook\source\repos\ClientWinFormApp\bin\Debug\SOAP_WebService.dll
+C:\Users\macbook\source\repos\ClientWinFormApp\bin\Debug\SOAP_WebService.pdb
+C:\Users\macbook\source\repos\ClientWinFormApp\bin\Debug\SOAP_WebService.dll.config
+C:\Users\macbook\source\repos\ClientWinFormApp\obj\Debug\ClientWinFormApp.csprojAssemblyReference.cache
+C:\Users\macbook\source\repos\ClientWinFormApp\obj\Debug\ClientWinFormApp.Home.resources
+C:\Users\macbook\source\repos\ClientWinFormApp\obj\Debug\ClientWinFormApp.Properties.Resources.resources
+C:\Users\macbook\source\repos\ClientWinFormApp\obj\Debug\ClientWinFormApp.csproj.GenerateResource.cache
+C:\Users\macbook\source\repos\ClientWinFormApp\obj\Debug\ClientWinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\macbook\source\repos\ClientWinFormApp\obj\Debug\ClientWinFormApp.csproj.CopyComplete
+C:\Users\macbook\source\repos\ClientWinFormApp\obj\Debug\ClientWinFormApp.exe
+C:\Users\macbook\source\repos\ClientWinFormApp\obj\Debug\ClientWinFormApp.pdb
+C:\Users\macbook\source\repos\ClientWinFormApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\macbook\source\repos\ClientWinFormApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\macbook\source\repos\ClientWinFormApp\obj\Debug\ClientWinFormApp.WaitingForm.resources
